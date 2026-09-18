@@ -71,7 +71,7 @@ export const VMFPage: React.FC = () => {
 
             <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-emerald-600/20 border border-emerald-500/30 text-emerald-300 text-xs font-bold uppercase tracking-wider">
               <Leaf className="w-4 h-4 text-emerald-400" />
-              <span>Всемирный День Вегана · Алматы</span>
+              <span>Дата и место уточняются · Алматы</span>
             </div>
 
             <div className="space-y-4 max-w-4xl">
@@ -190,7 +190,7 @@ export const VMFPage: React.FC = () => {
               Расписание события
             </span>
             <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 font-heading mt-1">
-              Программа VMF 2026
+              Программа VMF
             </h2>
           </div>
 
@@ -372,7 +372,7 @@ export const VMFPage: React.FC = () => {
 
       <StickyCTA
         label="Смотреть программу VMF"
-        subLabel="Vegan Music Fest 2026"
+        subLabel="Vegan Music Fest"
         onClick={scrollToProgram}
       />
 

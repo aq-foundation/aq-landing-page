@@ -188,9 +188,9 @@ export const QaraBazarPage: React.FC = () => {
         ) : (
           <div className="p-8 rounded-3xl bg-white border border-amber-200/80 text-center space-y-3">
             <ShoppingBag className="w-8 h-8 text-amber-600 mx-auto" />
-            <h3 className="text-lg font-bold text-slate-900">Осенний маркет QARA BAZAR 2026</h3>
+            <h3 className="text-lg font-bold text-slate-900">Ближайший маркет QARA BAZAR</h3>
             <p className="text-xs text-slate-600 max-w-md mx-auto">
-              Ближайший масштабный маркет состоится на площадке фестиваля VMF в Центральном парке. Открыт приём заявок мастеров.
+              Ближайший масштабный маркет состоится на площадке фестиваля VMF (дата и место проведения уточняются). Открыт приём заявок мастеров.
             </p>
           </div>
         )}

@@ -332,9 +332,9 @@ export const ARTISTS_DATA: MusicArtist[] = [
     ],
     videoUrl: 'https://youtube.com',
     upcomingShow: {
-      eventTitle: 'Vegan Music Fest 2026',
-      date: '15 Октября 2026',
-      venue: 'Центральный Парк Культуры',
+      eventTitle: 'Vegan Music Fest',
+      date: 'Дата уточняется',
+      venue: 'Место проведения уточняется',
       href: '/vmf'
     }
   },
@@ -356,9 +356,9 @@ export const ARTISTS_DATA: MusicArtist[] = [
     ],
     videoUrl: 'https://youtube.com',
     upcomingShow: {
-      eventTitle: 'Vegan Music Fest 2026',
-      date: '15 Октября 2026',
-      venue: 'Центральный Парк Культуры',
+      eventTitle: 'Vegan Music Fest',
+      date: 'Дата уточняется',
+      venue: 'Место проведения уточняется',
       href: '/vmf'
     }
   }
@@ -368,11 +368,11 @@ export const EVENTS_DATA: EventItem[] = [
   {
     id: 'vmf-2026',
     project: 'VMF',
-    title: 'Vegan Music Fest 2026',
-    date: '15 Октября 2026',
-    time: '12:00 - 22:00',
+    title: 'Vegan Music Fest',
+    date: 'Дата уточняется',
+    time: 'Время уточняется',
     location: 'Алматы',
-    venue: 'Центральный Парк Культуры',
+    venue: 'Место проведения уточняется',
     description: 'Открытый городской музыкальный фестиваль, приуроченный ко Всемирному дню вегана. Живая музыка, 100% vegan фудкорт, маркет QARA BAZAR и Zero Waste практики.',
     poster: '/photos/vegan_music_fest.jpg',
     price: 'Вход свободный',
